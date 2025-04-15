@@ -1,4 +1,5 @@
 README Generator
+
 Description
 This is a command-line application that dynamically generates a professional README.md file from a user's input. The generated README includes sections for description, installation instructions, usage information, contribution guidelines, test instructions, license information, and contact details.
 
