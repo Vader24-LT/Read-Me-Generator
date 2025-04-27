@@ -18,6 +18,7 @@ This is a command-line application that dynamically generates a professional REA
 
 ## Usage
 Run node index.js in the command line and answer the prompts to generate your README.
+https://app.screencastify.com/v3/watch/qXiORyZI7aM687lI6sHc
 
 ## License
 
